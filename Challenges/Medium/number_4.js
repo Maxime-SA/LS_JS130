@@ -53,6 +53,3 @@ class Meetup {
 }
 
 module.exports = Meetup;
-
-let date = new Meetup(2022, 5);
-console.log(date.daysInMonth);
